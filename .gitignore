@@ -14,3 +14,6 @@ Thumbs.db
 
 # VSCode
 .vscode/*
+
+# Data
+combined_data.csv.zip
